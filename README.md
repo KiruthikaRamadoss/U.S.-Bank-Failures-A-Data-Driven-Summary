@@ -14,8 +14,8 @@ This Power BI dashboard reveals that 561–563 U.S. banks failed, with the sharp
 
 **Technologies Used:** Power BI, Data Visualization, Microsoft Excel (data preprocessing).
 
-  - [View Dataset](https://github.com/KiruthikaRamadoss/U.S.-Bank-Failures-A-Data-Driven-Summary/blob/main/banklist.csv)
-  - [View Dashboard](https://github.com/KiruthikaRamadoss/U.S.-Bank-Failures-A-Data-Driven-Summary/blob/main/Kiru%20File.pdf)
-  - [View Live Video](https://drive.google.com/file/d/1ZGsYJp4dLr0HFkkZ32i-nmx6c3rAL1_p/view?usp=drive_link)
-  - [View Report](https://github.com/KiruthikaRamadoss/U.S.-Bank-Failures-A-Data-Driven-Summary/blob/main/US_Bank_Failures_Summary.pdf)
+  - 📁[Download Dataset](https://github.com/KiruthikaRamadoss/U.S.-Bank-Failures-A-Data-Driven-Summary/blob/main/banklist.csv)
+  - 📊[View Dashboard](https://github.com/KiruthikaRamadoss/U.S.-Bank-Failures-A-Data-Driven-Summary/blob/main/Kiru%20File.pdf)
+  - 📓[View Live Video](https://drive.google.com/file/d/1ZGsYJp4dLr0HFkkZ32i-nmx6c3rAL1_p/view?usp=drive_link)
+  - 📃[View Report](https://github.com/KiruthikaRamadoss/U.S.-Bank-Failures-A-Data-Driven-Summary/blob/main/US_Bank_Failures_Summary.pdf)
 

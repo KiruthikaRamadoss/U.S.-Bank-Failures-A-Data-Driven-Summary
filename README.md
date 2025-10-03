@@ -4,4 +4,4 @@ The Power BI dashboard reveals that 561–563 U.S. banks failed, with the sharpe
 
   - [View Dashboard](https://github.com/KiruthikaRamadoss/U.S.-Bank-Failures-A-Data-Driven-Summary/blob/main/Kiru%20File.pdf)
   - [View Live Video](https://drive.google.com/file/d/1ZGsYJp4dLr0HFkkZ32i-nmx6c3rAL1_p/view?usp=drive_link)
-  - [View Summary](https://github.com/KiruthikaRamadoss/U.S.-Bank-Failures-A-Data-Driven-Summary/blob/main/US_Bank_Failures_Summary.pdf)
+  - [View Report](https://github.com/KiruthikaRamadoss/U.S.-Bank-Failures-A-Data-Driven-Summary/blob/main/US_Bank_Failures_Summary.pdf)
